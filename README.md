@@ -1,5 +1,5 @@
 ## Birthday Remainder App 
 
-# using REACT 
+Using REACT 
 
 
